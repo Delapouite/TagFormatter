@@ -1,0 +1,19 @@
+{
+  "name": "caterpillar-tag-formatter",
+  "version": "0.0.1",
+  "description": "Custom Formatter for Caterpillar focused on log entries filtering",
+  "main": "example.coffee",
+  "dependencies": {
+    "caterpillar": "~1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "caterpillar"
+  ],
+  "author": "Delapouite",
+  "license": "BSD"
+}
